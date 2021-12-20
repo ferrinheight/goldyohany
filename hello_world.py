@@ -2,5 +2,5 @@
 from time import sleep
 
 while True:
-    print("HELLLLLLLO YOU BADDIEZ")
-    sleep 5
+    print('HELLLLLLLO YOU BADDIEZ')
+    sleep(5)
